@@ -1,16 +1,15 @@
 This folder contains Lasagne code to generate results by DeepFuse model mentioned in our ICCV 2017 paper. 
 Published by:
-K Ram Prabhakar, Video Analytics Lab, Indian Insitute of Science, Bangalore, India
-on November 3, 2017.
+K Ram Prabhakar, Video Analytics Lab, Indian Insitute of Science, Bangalore, India on November 3, 2017.
 Contact: ramprabhakar@iisc.ac.in
 ===================================================================================================
 This code is released for research purposes only, not for commercial use. Please cite our paper if you use our code in your work:
-@InProceedings{Prabhakar_2017_ICCV,
-	author = {Ram Prabhakar, K. and Sai Srikar, V and Venkatesh Babu, R.},
-	title = {DeepFuse: A Deep Unsupervised Approach for Exposure Fusion With Extreme Exposure Image Pairs},
-	booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
-	month = {Oct},
-	year = {2017}
+@inproceedings{ram2017deepfuse,
+  title={Deepfuse: A deep unsupervised approach for exposure fusion with extreme exposure image pairs},
+  author={Ram Prabhakar, K and Sai Srikar, V and Venkatesh Babu, R},
+  booktitle={Proceedings of the IEEE international conference on computer vision},
+  pages={4714--4722},
+  year={2017}
 }
 ===================================================================================================
 Software pre-requistes:
